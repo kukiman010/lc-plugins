@@ -1,0 +1,11 @@
+{
+  "name": "lc-plugins",
+  "owner": { "name": "arm" },
+  "plugins": [
+    {
+      "name": "lc",
+      "source": "./",
+      "description": "Task lifecycle: /lc-implement and /lc-orchestrate with planner, worker and reviewer agents."
+    }
+  ]
+}

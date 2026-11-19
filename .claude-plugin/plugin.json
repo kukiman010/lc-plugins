@@ -1,0 +1,6 @@
+{
+  "name": "lc",
+  "version": "1.0.0",
+  "description": "Task lifecycle: /lc-implement (one task) and /lc-orchestrate (a list) with lc-planner, lc-worker and lc-reviewer agents.",
+  "license": "MIT"
+}
