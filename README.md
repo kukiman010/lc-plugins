@@ -6,7 +6,7 @@
 ## Install
 
 ```
-/plugin marketplace add <git-url-of-this-repo>
+/plugin marketplace add kukiman010/lc-plugins
 /plugin install lc@lc-plugins
 ```
 
